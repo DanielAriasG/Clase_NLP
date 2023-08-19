@@ -1,5 +1,6 @@
 # Clase_NLP
-Clase de procesamiento del lenguaje natural, dividida en tres sesiones cada una de ellas en una carpeta que contiene la presentacion y los codigos asociados.
+Clase de procesamiento del lenguaje natural, dividida en tres sesiones cada una de ellas en una carpeta que contiene la presentacion y los codigos asociados. los videos se pueden descargar de [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248144.svg)](https://doi.org/10.5281/zenodo.8248144)
+
 
 ## Clase 1 Introduccion al NLP
 En esta clase se ven reflejados los conceptos basicos del procesamiento del lenguaje natural NLP por sus siglas en ingles, para este es nesesario descargar unos modelos preentrenados de los siguientes enlaces:
