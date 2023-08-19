@@ -43,5 +43,5 @@ Esta clase utiliza Large Lenguage Models (LLM), algunos links interesantes para 
 - [MidJourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) Este es pago.
 
 ### Generacion de Audio
-- [Riffusion]([Clase 3 LLM/Riffusion.ipynb](https://github.com/DanielAriasG/Clase_NLP/blob/main/Clase%203%20LLM/Riffusion.ipynb)https://github.com/DanielAriasG/Clase_NLP/blob/main/Clase%203%20LLM/Riffusion.ipynb)
-- [MusicGen]([Clase 3 LLM/MusicGen_colab.ipynb](https://github.com/DanielAriasG/Clase_NLP/blob/main/Clase%203%20LLM/MusicGen_colab.ipynb)https://github.com/DanielAriasG/Clase_NLP/blob/main/Clase%203%20LLM/MusicGen_colab.ipynb)
+- [Riffusion](https://github.com/DanielAriasG/Clase_NLP/blob/main/Clase%203%20LLM/Riffusion.ipynb)
+- [MusicGen](https://github.com/DanielAriasG/Clase_NLP/blob/main/Clase%203%20LLM/MusicGen_colab.ipynb)
