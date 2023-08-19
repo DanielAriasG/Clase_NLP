@@ -43,5 +43,5 @@ Esta clase utiliza Large Lenguage Models (LLM), algunos links interesantes para 
 - [MidJourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) Este es pago.
 
 ### Generacion de Audio
-- [Riffusion](Clase 3 LLM\Riffusion.ipynb)
-- [MusicGen](Clase 3 LLM\MusicGen_colab.ipynb)
+- [Riffusion](Clase 3 LLM/Riffusion.ipynb)
+- [MusicGen](Clase 3 LLM/MusicGen_colab.ipynb)
