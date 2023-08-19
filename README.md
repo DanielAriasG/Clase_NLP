@@ -29,19 +29,19 @@ Esta clase utiliza Large Lenguage Models (LLM), algunos links interesantes para 
 
 ### Generacion de texto
 
--[ChatGPT](chat.openai.com)
--[Bard](https://bard.google.com/)
--[Llama2](https://huggingface.co/docs/transformers/model_doc/llama2)
--BingChat, para este deben abrir edge y en la esquina superior derecha lo encuentran.
+- [ChatGPT](chat.openai.com)
+- [Bard](https://bard.google.com/)
+- [Llama2](https://huggingface.co/docs/transformers/model_doc/llama2)
+- BingChat, para este deben abrir edge y en la esquina superior derecha lo encuentran.
 
 ### Generacion de Contenido
 
--**Stable Diffusion:**Para este pueden acceder al [Discord](https://discord.com/invite/stablediffusion), a la version de [HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) o a [Automatic1111] (https://github.com/AUTOMATIC1111/stable-diffusion-webui) este ultimo es local, si quieren usar la nueva version sigan este video [Stable diffusion XL](https://www.youtube.com/watch?v=cS3-5vMxjVE&ab_channel=DotCSV)
--[Lexica](https://lexica.art/)
--[Playground](https://playgroundai.com/)
--[Bing DaLL-E](https://www.bing.com/create)
--[MidJourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) Este es pago.
+- **Stable Diffusion:**Para este pueden acceder al [Discord](https://discord.com/invite/stablediffusion), a la version de [HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion) o a [Automatic1111] (https://github.com/AUTOMATIC1111/stable-diffusion-webui) este ultimo es local, si quieren usar la nueva version sigan este video [Stable diffusion XL](https://www.youtube.com/watch?v=cS3-5vMxjVE&ab_channel=DotCSV)
+- [Lexica](https://lexica.art/)
+- [Playground](https://playgroundai.com/)
+- [Bing DaLL-E](https://www.bing.com/create)
+- [MidJourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) Este es pago.
 
 ### Generacion de Audio
--[Riffusion](..\Clase 3 LLM\Riffusion.ipynb)
--[MusicGen](..\Clase 3 LLM\MusicGen_colab.ipynb)
+- [Riffusion](Clase 3 LLM\Riffusion.ipynb)
+- [MusicGen](Clase 3 LLM\MusicGen_colab.ipynb)
